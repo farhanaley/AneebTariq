@@ -1,6 +1,6 @@
 ## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></a>
 
-<img src="AneebTariq.jpeg" alt="Mokkapps GitHub README header image">
+<img src="https://github.com/farhanaley/AneebTariq/blob/0cfabbf3d5ce1bb5b4edfa5f71f06785ea3db42b/AneebTariq.jpeg" alt="Mokkapps GitHub README header image">
 
 **AneebTariq/AneebTariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

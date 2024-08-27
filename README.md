@@ -17,21 +17,44 @@ Here are some ideas to get you started:
 -------
 
 🔗 &nbsp;**Connect with me**
-<p >
-<a href="https://www.facebook.com/aneebtariq.aneebtariq"><img src="https://img.shields.io/badge/faceBook-%231DA1F2.svg?&style=for-the-badge&logo=faceBook&logoColor=white" height=25></a>
- <a href="https://www.linkedin.com/in/aneeb-tariq/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
- <a href="https://www.instagram.com/aneebtariqaneebtariq/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-  </p>
+<p align="left">
+  <a href="https://www.facebook.com/aneebtariq.aneebtariq">
+    <img src="https://img.shields.io/badge/faceBook-%231DA1F2.svg?&style=for-the-badge&logo=faceBook&logoColor=white" height="25"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aneeb-tariq/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/aneebtariqaneebtariq/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="25"/>
+  </a>
+</p>
+
 
 -------
  <summary><b>🛠️&nbsp;&nbsp;Languages</b></summary>
   <br/>
-  <p align="left">  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
- <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <p align="left"> 
+   <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+   </a> &nbsp;&nbsp;
+ <a href="https://www.w3schools.com/cpp/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+ </a> &nbsp;&nbsp;
+<a href="https://www.mysql.com/" target="_blank">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+</a> &nbsp;&nbsp;
+ <a href="https://www.php.net" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+ </a>&nbsp;&nbsp; 
+ <a href="https://www.postgresql.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+ </a>&nbsp;&nbsp;
+ <a href="https://www.python.org" target="_blank">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+ </a>  &nbsp;&nbsp;
+    <a href="https://dart.dev" target="_blank">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="python" width="40" height="40"/>
+    </a> 
  </p>
 
 -------
@@ -39,10 +62,21 @@ Here are some ideas to get you started:
 📊 **Skills and Tools**
 <!--START_SECTION:waka-->
 <p>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
- <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> &nbsp;&nbsp;
+  <a href="https://graphql.org" target="_blank">
+   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
+  </a> &nbsp;&nbsp;
+ <a href="https://heroku.com" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+ </a>&nbsp;&nbsp;
+  <a href="https://postman.com" target="_blank">
+   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+    <a href="https://flutter.dev" target="_blank">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="python" width="40" height="40"/>
+    </a> 
 </p>
 
 <!--END_SECTION:waka-->
